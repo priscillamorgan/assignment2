@@ -1,2 +1,1 @@
 Getting ready to learn about containers!
-docker pull priscillam1/assignment2
